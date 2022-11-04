@@ -38,7 +38,7 @@
                     "22": {},
                     "23": {
                         "icon": "/home/ted/code/streamdeck/images/audioinput-headset.png",
-                        "command": "pactl set-default-source alsa_input.usb-Logitech_Logitech_G933_Gaming_Wireless_Headset-00.mono-fallback.3"
+                        "command": "pactl set-default-source alsa_input.usb-Logitech_Logitech_G933_Gaming_Wireless_Headset-00.mono-fallback"
                     },
                     "24": {},
                     "25": {},
@@ -50,7 +50,7 @@
                     "31": {
                         "icon": "/home/ted/code/streamdeck/images/audioinput-yeti.png",
                         "keys": "",
-                        "command": "pactl set-default-source alsa_input.usb-Blue_Microphones_Yeti_Stereo_Microphone_REV8-00.iec958-stereo.2"
+                        "command": "pactl set-default-source alsa_input.usb-Blue_Microphones_Yeti_Stereo_Microphone_REV8-00.iec958-stereo"
                     }
                 },
                 "1": {
