@@ -4,13 +4,13 @@
         "CL21L2A00405": {
             "buttons": {
                 "0": {
-                    "0": {},
-                    "1": {
+                    "0": {
                         "switch_page": 2,
                         "icon": "/home/ted/code/streamdeck/images/folder.png",
                         "text": "Page 2",
                         "write": ""
                     },
+                    "1": {},
                     "2": {},
                     "3": {},
                     "4": {},
@@ -20,7 +20,10 @@
                         "icon": "/home/ted/code/streamdeck/images/audiooutput-speakers.png",
                         "command": "pactl set-default-sink alsa_output.pci-0000_00_1f.3.analog-surround-51"
                     },
-                    "8": {},
+                    "8": {
+                        "icon": "/home/ted/code/streamdeck/images/lock.png",
+                        "command": "xscreensaver-command -activate"
+                    },
                     "9": {},
                     "10": {},
                     "11": {},
