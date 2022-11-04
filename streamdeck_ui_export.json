@@ -29,7 +29,10 @@
                         "icon": "/home/ted/code/streamdeck/images/audiooutput-speakers.png",
                         "command": "pactl set-default-sink alsa_output.pci-0000_00_1f.3.analog-surround-51"
                     },
-                    "16": {},
+                    "16": {
+                        "brightness_change": 10,
+                        "icon": "/home/ted/code/streamdeck/images/brightness-up.png"
+                    },
                     "17": {},
                     "18": {},
                     "19": {},
@@ -40,7 +43,10 @@
                         "icon": "/home/ted/code/streamdeck/images/audioinput-headset.png",
                         "command": "pactl set-default-source alsa_input.usb-Logitech_Logitech_G933_Gaming_Wireless_Headset-00.mono-fallback"
                     },
-                    "24": {},
+                    "24": {
+                        "brightness_change": -10,
+                        "icon": "/home/ted/code/streamdeck/images/brightness-down.png"
+                    },
                     "25": {},
                     "26": {},
                     "27": {},
@@ -364,7 +370,7 @@
             },
             "page": 0,
             "display_timeout": 900,
-            "brightness": 44,
+            "brightness": 30,
             "brightness_dimmed": 8
         }
     }
