@@ -8,10 +8,14 @@
                         "switch_page": 2,
                         "icon": "/home/ted/code/streamdeck/images/folder.png",
                         "text": "Page 2",
-                        "write": ""
+                        "write": "",
+                        "text_vertical_align": "middle"
                     },
                     "1": {},
-                    "2": {},
+                    "2": {
+                        "icon": "/home/ted/code/streamdeck/images/steam-icon.png",
+                        "command": "steam"
+                    },
                     "3": {},
                     "4": {},
                     "5": {},
@@ -69,7 +73,8 @@
                     "0": {
                         "switch_page": 1,
                         "icon": "/home/ted/code/streamdeck/images/folder.png",
-                        "text": "Page 1"
+                        "text": "Page 1",
+                        "text_vertical_align": "middle"
                     },
                     "1": {},
                     "2": {},
