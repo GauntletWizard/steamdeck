@@ -11,7 +11,10 @@
                         "write": "",
                         "text_vertical_align": "middle"
                     },
-                    "1": {},
+                    "1": {
+                        "command": "google-chrome-stable",
+                        "icon": "/home/ted/code/streamdeck/images/chrome.png"
+                    },
                     "2": {
                         "icon": "/home/ted/code/streamdeck/images/steam-icon.png",
                         "command": "steam"
