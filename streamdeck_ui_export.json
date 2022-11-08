@@ -19,7 +19,10 @@
                         "icon": "/home/ted/code/streamdeck/images/steam-icon.png",
                         "command": "steam"
                     },
-                    "3": {},
+                    "3": {
+                        "command": "gnome-terminal",
+                        "icon": "/home/ted/code/streamdeck/images/GNOME_Terminal_icon_2019.svg"
+                    },
                     "4": {},
                     "5": {},
                     "6": {},
