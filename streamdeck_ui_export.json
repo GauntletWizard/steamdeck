@@ -28,7 +28,7 @@
                     "6": {},
                     "7": {
                         "icon": "/home/ted/code/streamdeck/images/audiooutput-speakers.png",
-                        "command": "/home/ted/bin/audio out speakers"
+                        "command": "/home/ted/bin/audio out \"HDA Intel PCH\""
                     },
                     "8": {
                         "icon": "/home/ted/code/streamdeck/images/lock.png",
@@ -43,7 +43,7 @@
                     "15": {
                         "text": "",
                         "icon": "/home/ted/code/streamdeck/images/audiooutput-headset.png",
-                        "command": "/home/ted/bin/audio out headphones"
+                        "command": "/home/ted/bin/audio out \"Logitech G933 Gaming Wireless H\""
                     },
                     "16": {
                         "brightness_change": 10,
@@ -57,7 +57,7 @@
                     "22": {},
                     "23": {
                         "icon": "/home/ted/code/streamdeck/images/audioinput-headset.png",
-                        "command": "/home/ted/bin/audio in headphones"
+                        "command": "/home/ted/bin/audio in \"Logitech G933 Gaming Wireless H\""
                     },
                     "24": {
                         "brightness_change": -10,
@@ -72,7 +72,7 @@
                     "31": {
                         "icon": "/home/ted/code/streamdeck/images/audioinput-yeti.png",
                         "keys": "",
-                        "command": "/home/ted/bin/audio in yeti"
+                        "command": "/home/ted/bin/audio in \"Yeti Stereo Microphone\""
                     }
                 },
                 "1": {
