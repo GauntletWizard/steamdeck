@@ -34,8 +34,17 @@
                         "icon": "/home/ted/code/streamdeck/images/lock.png",
                         "command": "xscreensaver-command -activate"
                     },
-                    "9": {},
-                    "10": {},
+                    "9": {
+                        "command": "discord",
+                        "text": "",
+                        "icon": "/home/ted/code/streamdeck/images/discord.png"
+                    },
+                    "10": {
+                        "text": "Files",
+                        "command": "nemo",
+                        "icon": "/home/ted/code/streamdeck/images/folder.png",
+                        "text_vertical_align": "middle"
+                    },
                     "11": {},
                     "12": {},
                     "13": {},
