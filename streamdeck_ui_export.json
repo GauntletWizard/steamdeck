@@ -239,10 +239,10 @@
                         "states": {
                             "0": {
                                 "text": "",
-                                "icon": "",
+                                "icon": "/home/ted/code/streamdeck/images/battery.png",
                                 "keys": "",
                                 "write": "",
-                                "command": "",
+                                "command": "/home/ted/bin/audio battery",
                                 "brightness_change": 0,
                                 "switch_page": 0,
                                 "switch_state": 0,
